@@ -51,9 +51,6 @@
 ### 🏆 Achievements & Hobbies
 
 * 🌐 **Project:** [surgi-form.com](https://surgi-form.com)
-* 🥇 *[Add your next achievement here]*
-* 🧗 *[Add your hobby here]*
-* 📷 *[Add your hobby here]*
 
 ---
 
