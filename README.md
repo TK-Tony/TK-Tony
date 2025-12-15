@@ -5,7 +5,7 @@
   <h3>김민준 | 金旻俊</h3>
   
   <p>
-    <b>Backend & Frontend Developer</b><br>
+    <b>Frontend & Backend Developer | CTO</b><br>
     Based in Seoul, South Korea
   </p>
 
@@ -22,12 +22,12 @@
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
-| **Backend Developer** | **沈阳球真理体育科技有限公司** | Sep 2025 – Present |
+| **Frontend & Backend Developer** | **沈阳球真理体育科技有限公司** | Sep 2025 – Present |
 | **CTO** | **구연 (Guyeon)** | Jul 2025 – Present |
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+### 🛠️ Tech Stack
 
 **Languages**
 <br>
@@ -35,11 +35,16 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-**Frameworks & Tools**
+**Frameworks**
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+**Website & Mobile Building**
+<br>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 ---
 
@@ -48,9 +53,3 @@
 If you'd like to collaborate on a project or just say hi, feel free to reach out!
 
 * 📧 **Personal Email:** [6677tonykim@gmail.com](mailto:6677tonykim@gmail.com)
-
-<div align="center">
-  <br>
-  <sub><i>Visitor count</i></sub><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
-</div>
