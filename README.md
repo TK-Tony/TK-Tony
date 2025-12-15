@@ -5,7 +5,7 @@
   <h3>김민준 | 金旻俊</h3>
   
   <p>
-    <b>Frontend & Backend Developer | CTO</b><br>
+    <b>Frontend & Backend Developer</b><br>
     Based in Seoul, South Korea
   </p>
 
@@ -45,6 +45,15 @@
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+---
+
+### 🏆 Achievements & Hobbies
+
+* 🌐 **Project:** [surgi-form.com](https://surgi-form.com)
+* 🥇 *[Add your next achievement here]*
+* 🧗 *[Add your hobby here]*
+* 📷 *[Add your hobby here]*
 
 ---
 
