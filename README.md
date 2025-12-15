@@ -5,7 +5,7 @@
   <h3>김민준 | 金旻俊</h3>
   
   <p>
-    <b>Backend Developer & CTO</b><br>
+    <b>Backend & Frontend Developer</b><br>
     Based in Seoul, South Korea
   </p>
 
